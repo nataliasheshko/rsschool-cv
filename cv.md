@@ -19,6 +19,7 @@ I have economic education with a specialization in finance and banking. After gr
 ____
 ### Code examples  
 ```
+
 <!DOCTYPE html>
 <html>
 
@@ -101,6 +102,7 @@ ____
 </script>
 </body>
 </html>
+
 ```
 
 ### Experience  
