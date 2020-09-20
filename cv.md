@@ -102,3 +102,13 @@ ____
 </body>
 </html>
 ```
+
+### Experience  
+Codewars profile: https://www.codewars.com/users/nataliasheshko
+
+### Education
+- online studying javascript on website <https://learn.javascript.ru/>
+- "Java-script/Front-end" course at Rolling Scope School (from 09.2020 to now) <https://rs.school/js/>
+
+### English
+I have a certificate of the Streamline language school that confirms B1 level. Also I am attending Upper-intermediate course right now.
